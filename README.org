@@ -3,8 +3,7 @@
 SRFI-1: List Library
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/g000001/srfi-1.git   |
-| commit  | c56689e  |
-| systems | srfi-1 |
+| source  | git:https://github.com/g000001/srfi-1.git |
+| commit  | 36d7aa8                                   |
+| systems | srfi-1                                    |
 |---------+-------------------------------------------|
-
